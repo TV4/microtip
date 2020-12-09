@@ -23,5 +23,8 @@
     "minifier": "^0.8.1",
     "stylelint": "^9.1.1"
   },
+  "release": {
+    "branches": ["master", "next"]
+  },
   "main": "index.js"
 }
