@@ -1,5 +1,5 @@
 {
-  "name": "microtip",
+  "name": "@tv4/microtip",
   "version": "0.2.2",
   "description": "A modern, ultra light css tooltip library. Just 1kb minified and gzipped",
   "style": "microtip.css",
@@ -15,16 +15,13 @@
   },
   "author": "Indrashish Ghosh",
   "license": "MIT",
-  "repository": "https://github.com/ghosh/microtip",
+  "repository": "git@github.com:TV4/microtip.git",
   "bugs": {
     "url": "https://github.com/ghosh/microtip/issues"
   },
   "devDependencies": {
     "minifier": "^0.8.1",
     "stylelint": "^9.1.1"
-  },
-  "release": {
-    "branches": ["master", "next"]
   },
   "main": "index.js"
 }
