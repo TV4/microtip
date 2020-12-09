@@ -25,6 +25,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
   "main": "index.js"
 }
